@@ -2,7 +2,7 @@
 Generates hiccup compatible amp web stories.
 
 See the second half of this video for more info on AMP and web stories.
-https://youtu.be/d-iigN2WjvY
+https://youtu.be/1stltZXITls
 
 ## Usage
 
